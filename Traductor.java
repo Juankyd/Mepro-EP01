@@ -8,6 +8,7 @@ public class Traductor {
 		}
 		char filaChar= texto.charAt(0);
 		char columnaChar = texto.charAt(1);
+		
 	}
 	
 	public String consultarTextoEnNotacionAlgebraica(Coordenada coordenada) {
